@@ -808,10 +808,10 @@ a:focus {
 /*******************************/
 .video {
     position: relative;
-    margin: 45px 0;
-    height: 100%;
+    margin: 10px 0;
+    height: 50%;
     min-height: 500px;
-    background: linear-gradient(rgba(3, 15, 39, .9), rgba(3, 15, 39, .9)), url(../img/carousel-1.jpg);
+    background: linear-gradient(rgba(1, 10, 20, .33), rgba(3, 15, 39, .9)), url(../img/siku/giphy.gif);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
